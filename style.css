@@ -41,7 +41,7 @@ body{
   height: 50px;
   background: red; 
   top: 0;
-  animation: moveTile 4s linear;
+  animation: moveTile 4s forwards;
 }
 @keyframes moveTile {
   100%{
